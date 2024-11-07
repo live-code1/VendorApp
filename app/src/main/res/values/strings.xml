@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vendor App</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_internet_connection_desc">Ensure that your device is currently linked to the internet and attempt the action once more.</string>
+    <string name="alright">Alright</string>
+    <string name="delivery_fee">Delivery fee</string>
+    <string name="delivery_time">Delivery time</string>
+    <string name="delivered_by">Delivered by</string>
+    <string name="do_data_available">Do Data Available</string>
+    <string name="view_basket">View basket</string>
+    <string name="view_basket_desc">Start saving by adding items to basket</string>
+    <string name="offer_desc">Save up to KD 3</string>
+
+
+</resources>
